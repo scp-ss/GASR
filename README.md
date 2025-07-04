@@ -16,7 +16,7 @@ Key differences include:
 - Apple types that can heal or harm
 - Bombs and other player-hostile hazards
 - Gradually increasing difficulty over time
-- Altered mechanics that go beyond the traditional grid-and-turn logic
+
 
 This is not a clone. It’s a standalone creation that reinterprets old-school mechanics from a personal, creative lens.
 
