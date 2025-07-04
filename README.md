@@ -1,45 +1,45 @@
 # GrowASnake | REMAKE
 
-**An original, fan-made reimagining of the classic snake-like arcade concept.**
+**A personal, fan-made reinterpretation of the classic snake-style arcade game.**
 
-> This is _not_ affiliated with or endorsed by Nokia or any prior publisher.  
-> All code, graphics, and sound assets are original. The project is 100% free and open-source.
+> This is not affiliated with or endorsed by Nokia or any other past publisher.  
+> The project is fully original in code, gameplay, and design. Free and open-source for everyone.
 
 ---
 
 ## 📜 About
 
-**GrowASnake | REMAKE** is a fresh twist on the retro snake mechanic—rebuilt from scratch with new visuals, gameplay systems, and more than **30 new features** including:
+**GrowASnake | REMAKE** is a solo-developed take on retro snake gameplay, rebuilt from scratch using the Godot Engine. While visually minimal and intentionally simple, the game introduces fresh rules and hazards compared to older versions.
 
-- Deadly apples and bomb hazards
-- Shifting environments and progressive difficulty
-- Visual chaos and surreal glitch aesthetics
-- Completely new game rules and mechanics
+Key differences include:
 
-This is not a clone. It is an **original reinterpretation**, built with care, creativity, and full respect for the retro games that inspired it.
+- Apple types that can heal or harm
+- Bombs and other player-hostile hazards
+- Gradually increasing difficulty over time
+- Altered mechanics that go beyond the traditional grid-and-turn logic
+
+This is not a clone. It’s a standalone creation that reinterprets old-school mechanics from a personal, creative lens.
 
 ---
 
 ## 🔓 Licensing & Use
 
 This project is offered as **FOSS (Free and Open Source Software)**.  
-There is **no license attached**—you are free to:
+There is **no license file attached** — which means:
 
-- Use
-- Modify
-- Redistribute
-- Build upon  
-For **any purpose**, without legal restriction or credit requirement.
+- Anyone is free to use, modify, or redistribute it
+- Commercial and non-commercial use are both allowed
+- Credit is appreciated, but not legally required
 
-More details and legal context can be found in the fan-made disclosure here:  
-👉 [View Legal & Fan Project Information](https://scp-ss.github.io/GASR/)
+More context and fan remake disclosure:  
+👉 [Legal & Attribution Info](https://scp-ss.github.io/GASR/)
 
 ---
 
 ## 🕹️ Play the Game
 
-To run the game:
+To run the game locally:
 
-1. Download or clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/scp-ss/GASR.git
