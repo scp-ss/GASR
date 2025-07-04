@@ -32,7 +32,7 @@ There is **no license attached**—you are free to:
 For **any purpose**, without legal restriction or credit requirement.
 
 More details and legal context can be found in the fan-made disclosure here:  
-👉 [View Legal & Fan Project Information](https://github.com/scp-ss/GASR/blob/main/licenseANDotherInformation/index.html)
+👉 [View Legal & Fan Project Information](https://scp-ss.github.io/GASR/)
 
 ---
 
