@@ -38,7 +38,7 @@ More context and fan remake disclosure:
 
 ## 🕹️ Play the Game
 
-To run the game locally:
+To run the game locally using the Godot Engine:
 
 1. Clone the repository:
    ```bash
